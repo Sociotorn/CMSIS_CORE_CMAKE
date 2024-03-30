@@ -1,0 +1,2 @@
+add_library(CMSIS_CORE INTERFACE)
+target_include_directories(CMSIS_CORE INTERFACE Include)

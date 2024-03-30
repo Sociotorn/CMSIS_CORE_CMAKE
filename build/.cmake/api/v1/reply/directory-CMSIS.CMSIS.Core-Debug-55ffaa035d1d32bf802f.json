@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "CMSIS/CMSIS/Core",
+		"source" : "/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/CMSIS/Core"
+	}
+}

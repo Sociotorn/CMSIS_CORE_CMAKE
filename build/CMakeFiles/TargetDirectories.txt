@@ -1,0 +1,9 @@
+/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/build/CMakeFiles/testcm7.elf.dir
+/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/build/CMakeFiles/edit_cache.dir
+/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/build/CMakeFiles/rebuild_cache.dir
+/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/build/CMSIS/CMakeFiles/edit_cache.dir
+/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/build/CMSIS/CMakeFiles/rebuild_cache.dir
+/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/build/CMSIS/CMSIS/CMakeFiles/edit_cache.dir
+/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/build/CMSIS/CMSIS/CMakeFiles/rebuild_cache.dir
+/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/build/CMSIS/CMSIS/Core/CMakeFiles/edit_cache.dir
+/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/build/CMSIS/CMSIS/Core/CMakeFiles/rebuild_cache.dir

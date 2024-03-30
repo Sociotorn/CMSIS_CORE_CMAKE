@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/build",
+  "command": "/opt/arm-gnu-toolchain/bin/arm-none-eabi-gcc -I/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/tests/. -I/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/CMSIS/Core/Include -g -Os -g3 -Wall -mcpu=cortex-m7 -std=c17 -o CMakeFiles/testcm7.elf.dir/testcm7.c.obj -c /home/jsoccerd/Coding/CMSIS_CORE_CMAKE/tests/testcm7.c",
+  "file": "/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/tests/testcm7.c"
+}
+]

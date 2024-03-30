@@ -1,0 +1,108 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "CMSIS",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-CMSIS-Debug-f7c90901dfcdb4efd045.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/jsoccerd/Coding/CMSIS_CORE_CMAKE"
+				},
+				{
+					"build" : "CMSIS/CMSIS",
+					"childIndexes" : 
+					[
+						3
+					],
+					"jsonFile" : "directory-CMSIS.CMSIS-Debug-6b37ffb61679ccc4a0e2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/CMSIS"
+				},
+				{
+					"build" : "CMSIS/CMSIS/Core",
+					"jsonFile" : "directory-CMSIS.CMSIS.Core-Debug-55ffaa035d1d32bf802f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 0,
+					"source" : "/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/CMSIS/Core"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "TEST_CMSIS",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "testcm7.elf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testcm7.elf-Debug-8fc7661daa1574b91391.json",
+					"name" : "testcm7.elf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/build",
+		"source" : "/home/jsoccerd/Coding/CMSIS_CORE_CMAKE/tests"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
